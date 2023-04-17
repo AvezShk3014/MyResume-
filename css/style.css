@@ -2,17 +2,6 @@ div
 {
     border-radius: 5px;
     }
-#header
-{
-    position: fixed;
-    z-index: 1;
-    height:140px;
-    width: 70%;
-    background-color: #668284;
-    margin-bottom: 10px;
-    margin: auto;
-    }
-
 .name-text {	
 	font-size: 28px;
 }
@@ -105,27 +94,9 @@ a:hover {
 	color:rgba(0,0,0,1);
 	font-style:normal;
 }
-    
-#footer
-{
-    height:40px;
-    clear:both;
-    position: absolute;
-    background-color: #C1E3E1;
-    }
-    
 h3
 {
     text-decoration: underline;
-    }
-
-#job-responsibilities
-{
-    padding: 1px;
-    }
-.job-title
-{
-    font-weight: bold;
     }
 table
 {
@@ -137,28 +108,6 @@ td
     border: 1px solid #E88741;
     }
 
-#course-name
-{
-    font-weight:bold;
-    }
-
-#company-name
-{
-    height:2px;
-    text-decoration:underline;
-    }
-#job-title
-{
-    height: 5px;
-    }
-.job-duration
-{
-    float:right;
-    }
-#heading
-{
-    font-weight:bold;
-    }
     .styled-table {
         border-collapse: collapse;
         margin: 25px 0;
